@@ -1,0 +1,39 @@
+body{
+
+    background-color: darkseagreen;
+}
+
+
+.heading{
+
+    font-size:35px;
+    letter-spacing: 3px;
+}
+
+#camera , #result
+{
+  border: 3px solid steelblue;
+  width: 400px;
+  height: 325px; 
+  font-size: 30px;
+ 
+}
+
+
+#prediction{
+
+    font-size: 30px;
+    color:indianred
+}
+
+.webcam{
+
+    font-size: 30px;
+    color:teal;
+}
+
+.result_of_pic{
+
+    font-size: 30px;
+    color: greenyellow;
+}
